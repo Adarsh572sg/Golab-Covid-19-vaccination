@@ -49,7 +49,3 @@ This repository contains data and analysis related to COVID-19 vaccination using
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## Acknowledgements
-
-- Data sources and any third-party libraries used in this project.
